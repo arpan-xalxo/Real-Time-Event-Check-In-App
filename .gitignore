@@ -1,0 +1,9 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+
+# Ignore architecture documentation files
+/event-engage-architecture.md
+/event-engage-architecture.pdf
