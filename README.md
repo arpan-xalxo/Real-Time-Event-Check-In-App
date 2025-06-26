@@ -25,8 +25,8 @@ A real-time event engagement platform where users can browse events, join/leave 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd event-engage
+git clone git@github.com:arpan-xalxo/Real-Time-Event-Check-In-App.git
+cd  Real-Time-Event-Check-In-App
 ```
 
 ### 2. Start PostgreSQL with Docker
